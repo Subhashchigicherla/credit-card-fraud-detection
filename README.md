@@ -64,8 +64,11 @@ The application uses the Credit Card Fraud Detection dataset from Kaggle. Place 
 
 Train the model using:
 ```bash
-python src/model_training.py
-```
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.0.237:8501
+````
 
 The trained model will be saved as `models/fraud_model.pkl`.
 
