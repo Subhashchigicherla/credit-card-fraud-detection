@@ -15,10 +15,11 @@ This project is a full-stack data science solution that takes you from raw trans
   
 ## Installation
 
-1. Clone the repository:
-   ```bash
-https://github.com/Subhashchigicherla/credit-card-fraud-detection.git
-   ```
+1. **Clone the repository**
+```bash
+git clone https://github.com/Subhashchigicherla/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+```
 
 2. Install dependencies:
    ```bash
