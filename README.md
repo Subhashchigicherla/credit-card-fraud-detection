@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection System
 
-A Streamlit-based web application for detecting credit card fraud using machine learning.
+A hands-on project for detecting fraudulent transactions using machine learning and data analysis.*  
+
+This project is a full-stack data science solution that takes you from raw transaction data all the way to a working Streamlit dashboard. It’s designed to show both *analytical insights* and *predictive modeling skills*
 
 ## Features
 
@@ -13,8 +15,7 @@ A Streamlit-based web application for detecting credit card fraud using machine 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+https://github.com/Subhashchigicherla/credit-card-fraud-detection.git
    ```
 
 2. Install dependencies:
