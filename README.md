@@ -1,16 +1,18 @@
 # Credit Card Fraud Detection System
 
-A hands-on project for detecting fraudulent transactions using machine learning and data analysis.*  
+A hands-on project for detecting fraudulent transactions using machine learning and data analysis.  
 
 This project is a full-stack data science solution that takes you from raw transaction data all the way to a working Streamlit dashboard. It’s designed to show both *analytical insights* and *predictive modeling skills*
 
 ## Features
 
-- User authentication (login/signup)
-- Fraud detection prediction
-- Data analytics and visualization
-- Dashboard with metrics and charts
-
+- Real-time credit card fraud detection using a trained ML model  
+- Secure login/signup with SQLite database integration  
+- End-to-end data pipeline: preprocessing → feature engineering → model training → deployment  
+- Interactive Streamlit dashboard with transaction trends, fraud metrics, and visualizations  
+- Actionable insights from EDA and anomaly detection for decision-making  
+- Model serialization (`fraud_model.pkl`) for instant predictions without retraining
+  
 ## Installation
 
 1. Clone the repository:
@@ -35,7 +37,7 @@ https://github.com/Subhashchigicherla/credit-card-fraud-detection.git
 1. Create a new repository on GitHub.
 2. Push the code:
    ```bash
-   git remote add origin https://github.com/yourusername/credit-card-fraud-detection.git
+   git remote add origin https://github.com/Subhashchigicherla/credit-card-fraud-detection.git
    git push -u origin master
    ```
 
@@ -64,9 +66,9 @@ The application uses the Credit Card Fraud Detection dataset from Kaggle. Place 
 ## Model
 
 Train the model using:
-```bash
   You can now view your Streamlit app in your browser.
-
+  
+```bash
   Local URL: http://localhost:8501
   Network URL: http://192.168.0.237:8501
 ````
